@@ -2176,28 +2176,50 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-qzO5R9YHpo {
-  background-image: url("../../../assets/images/old-woman-scolding-600-1342x680.jpg");
+.cid-qAtTsp0z9K {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
-.cid-qzO5R9YHpo .form-container {
+.cid-qAtTsp0z9K .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qAtT2ELMm5 {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qAtT2ELMm5 .counter-container {
+  color: #767676;
+}
+.cid-qAtT2ELMm5 .counter-container ol {
+  margin-bottom: 0;
+  counter-reset: myCounter;
+}
+.cid-qAtT2ELMm5 .counter-container ol li {
+  margin-bottom: 1rem;
+}
+.cid-qAtT2ELMm5 .counter-container ol li {
+  list-style: none;
+  padding-left: .5rem;
+}
+.cid-qAtT2ELMm5 .counter-container ol li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  counter-increment: myCounter;
+  content: counter(myCounter);
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 40px;
   transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-}
-.cid-qzO5R9YHpo .input-group-btn {
-  justify-content: center;
-}
-@media (min-width: 768px) {
-  .cid-qzO5R9YHpo .content-container {
-    padding-right: 5rem;
-  }
-}
-.cid-qzO5R9YHpo H1 {
-  text-align: right;
-}
-.cid-qzO5R9YHpo .mbr-text,
-.cid-qzO5R9YHpo .mbr-section-btn {
-  text-align: right;
+  color: #ffffff;
+  background: #149dcc;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border-radius: 0;
 }
 .cid-qzTiPJWmVI {
   padding-top: 60px;
