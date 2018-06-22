@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Formation Facebook",
-    "currentPage": "page1.html",
+    "currentPage": "paye.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -640,7 +640,7 @@
         }
       ]
     },
-    "page1.html": {
+    "paye.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "COMMANDE ENREGISTREE",
